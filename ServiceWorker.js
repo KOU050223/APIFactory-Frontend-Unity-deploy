@@ -1,9 +1,9 @@
 const cacheName = "KOU050223-APIFactory-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/APIFactory-Frontend-Unity-deploy.loader.js",
+    "Build/APIFactory-Frontend-Unity-deploy.framework.js",
+    "Build/APIFactory-Frontend-Unity-deploy.data",
+    "Build/APIFactory-Frontend-Unity-deploy.wasm",
     "TemplateData/style.css"
 
 ];
